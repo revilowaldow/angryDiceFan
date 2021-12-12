@@ -1,0 +1,19 @@
+{
+    "name": "angryDiceFan",
+    "title": "Angry Fan Dice",
+    "description": "A simple module to add angry fan textures to Dice-So-Nice",
+    "author": "revilowaldow",
+    "version": "0.1.1",
+    "minimumCoreVersion": "0.7.0",
+    "scripts": [
+        "scripts/main.js"
+    ],
+    "dependencies":[
+        {
+            "name":"dice-so-nice",
+            "manifest": "https://gitlab.com/riccisi/foundryvtt-dice-so-nice/-/raw/master/module/module.json"
+        }
+    ],
+    "download": "https://github.com/revilowaldow/angryDiceFan/raw/master/releases/download/0.1.1/module.zip",
+    "manifest": "https://raw.githubusercontent.com/revilowaldow/angryDiceFan/master/module.json"
+  }
